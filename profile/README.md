@@ -1,7 +1,7 @@
 # NASA Space Apps Challenge 2023 
 
 ## YouTube Video
-[Video](https://youtu.be/j8ofJ3THgA?si=NxXJ2teTqtbpRMh)
+[![Watch the video](/profile/logo.jpeg)](https://youtu.be/nTQUwghvy5Q)
 
 ## Event
 
